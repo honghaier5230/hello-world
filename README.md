@@ -1,3 +1,3 @@
 # hello-world
-test github/n
+test github
 This is X. Do not REPLY!
